@@ -1,4 +1,4 @@
-# Slim 3 sample app
+# Slim 3 sample app that is called tiny URL service.
 
 This skeleton application was built for Composer. This makes setting up a new Slim Framework application quick and easy.
 
